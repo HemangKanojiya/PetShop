@@ -1,0 +1,20 @@
+.singleNutrition{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 80px;
+    color: #FC8321;
+}
+.nutritionTitle{
+    margin-top: 16px;
+}
+.NutritionContainer{
+    display: flex;
+    flex-direction: row;
+}
+.nutrition{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
