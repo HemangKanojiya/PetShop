@@ -1,5 +1,5 @@
 import React from 'react'
-import whiskas from '../../Assets/Whiskas_final 6.png'
+import whiskas from '../../Assets/NutriotionImages/Whiskas_final 6.png'
 import classes from './SingleNutrition.module.css';
 
 type Props ={
